@@ -1,8 +1,6 @@
 replicaCount: 1
 
 image:
-  repository:
-  tag:
 
 service:
   type: ClusterIP
